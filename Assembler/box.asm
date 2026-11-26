@@ -1,9 +1,9 @@
 
 // Box.asm
-// K = 15
-// Starting row = 15
+// K = 12
+// Starting row = 12
 // Height = 20 rows
-// Width = 64 pixels (4 words)
+// Width = 16 pixels (1 words)
 
 // Check keyboard
 (LOOP)
